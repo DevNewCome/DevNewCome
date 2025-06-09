@@ -1,7 +1,45 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+# Hello World! I'm Jeff, a Brazilian Web Developer 👋🏼
 
-# Hello World!, I'm Jeff, a Brazilian Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🛜 Currently building my personal [webpage](https://jeffersonliraport.netlify.app/)<br>
+👨🏼‍🎓 Graduated in **Analysis and Systems Development (ADS)** and **Technical Course in IT**<br>
+🎓 Currently studying **Computer Science at Estácio University**<br>
+🌍 Also studying **Media-Based Computer Science** at Berliner Hochschule für Technik<br>
+👨🏼‍💻 Working as a Web Developer since 2022
+
+## 🚀 About Me
+
+I'm passionate about building clean, responsive, and user-friendly web applications. I love solving real-world problems through code and continuously improving both my technical and soft skills.
+
+My current focus is on:
+
+- 🌐 Full-stack JavaScript (React, Node.js, Next.js)
+- 🧠 Deepening my understanding of algorithms and system design
+- 🧪 Software testing and QA practices
+- ☁️ Hosting and deployment (Netlify, Vercel, Firebase)
+
+## 💻 Tech Stack
+
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Python
+- **Frontend**: React, Next.js, TailwindCSS
+- **Backend**: Node.js, Express, MongoDB
+- **Tools**: Git & GitHub, Figma, VS Code, Postman
+- **Other**: Responsive Design, Web Accessibility, SEO Basics
+
+## 📁 Projects & Learning
+
+- 🚀 Developing real-world projects to expand my portfolio
+- 📚 Constantly learning through courses, documentation, and hands-on practice
+- 💬 Sharing knowledge and helping others when I can
+
+## 📫 Let's Connect
+
+- 📧 [Email](mailto:jefferson.senac1@yahoo.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-b-lira/)
+- 🌐 [Portfolio](https://jeffersonliraport.netlify.app/)
+
+Thanks for visiting — see you in the code! 👨🏼‍💻
+
 
 
 # 💻 Tech Stack:
