@@ -4,7 +4,6 @@
 🛜 Currently building my personal [webpage](https://jeffersonliraport.netlify.app/)<br>
 👨🏼‍🎓 Graduated in **Analysis and Systems Development (ADS)** and **Technical Course in IT**<br>
 🎓 Currently studying **Computer Science at Estácio University**<br>
-🌍 Also studying **Media-Based Computer Science** at Berliner Hochschule für Technik<br>
 👨🏼‍💻 Working as a Web Developer since 2022
 
 ## 🚀 About Me
