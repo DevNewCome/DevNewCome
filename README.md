@@ -34,12 +34,12 @@ My current focus is on:
 ## 📜 Certificados e Diplomas
 
 ### 🛠️ IT Essentials – Cisco
-[![Certificado Cisco](imagens/certificado-cisco.jpg)](pdfs/IT_Essentials_7_certificate.pdf)
+[![Certificado Cisco](imagens/certificado-cisco.jpg)](IT_Essentials_7_certificate.pdf)
 
 ---
 
 ### 🎓 Diploma – Análise e Desenvolvimento de Sistemas (UNIP)
-[![Diploma UNIP](imagens/diploma-unip.jpg)](pdfs/diploma-ads-unip.pdf)
+[![Diploma UNIP](imagens/diploma-unip.jpg)](diploma-ads-unip.pdf)
 
 
 ## 📫 Let's Connect
