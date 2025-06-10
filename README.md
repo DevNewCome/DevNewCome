@@ -31,6 +31,17 @@ My current focus is on:
 - 📚 Constantly learning through courses, documentation, and hands-on practice
 - 💬 Sharing knowledge and helping others when I can
 
+## 📜 Certificados e Diplomas
+
+### 🛠️ IT Essentials – Cisco
+[![Certificado Cisco](imagens/certificado-cisco.jpg)](pdfs/IT_Essentials_7_certificate.pdf)
+
+---
+
+### 🎓 Diploma – Análise e Desenvolvimento de Sistemas (UNIP)
+[![Diploma UNIP](imagens/diploma-unip.jpg)](pdfs/diploma-ads-unip.pdf)
+
+
 ## 📫 Let's Connect
 
 - 📧 [Email](mailto:jefferson.senac1@yahoo.com)
