@@ -27,9 +27,9 @@ My current focus is on:
 
 ## 📁 Projects & Learning
 👨‍🍳 Pizza Market Project — Full-stack project simulating a pizza store system
-- 🛠️ Frontend Repository: github.com/DevNewCome/pizzaria-frontend
-- ⚙️ Backend Repository: github.com/DevNewCome/pizzaria-backend
-- 🌐 Live Site: [deploy link – em construção]
+- 🛠️ [Frontend Repository](https://github.com/DevNewCome/pizzaria-frontend)  
+- ⚙️ [Backend Repository](https://github.com/DevNewCome/pizzaria-backend) 
+- 🌐 Live Site: [at building]
 - 🚀 Developing real-world projects to expand my portfolio
 - 📚 Constantly learning through courses, documentation, and hands-on practice
 - 💬 Sharing knowledge and helping others when I can
