@@ -24,12 +24,17 @@ My current focus is on:
 - **Backend**: Node.js, Express, MongoDB
 - **Tools**: Git & GitHub, Figma, VS Code, Postman
 - **Other**: Responsive Design, Web Accessibility, SEO Basics
+- 
+## 💻 Projects
 
-## 📁 Projects & Learning
-👨‍🍳 Pizza Market Project — Full-stack project simulating a pizza store system
-- 🛠️ [Frontend Repository](https://github.com/DevNewCome/pizzaria-frontend)  
-- ⚙️ [Backend Repository](https://github.com/DevNewCome/pizzaria-backend) 
-- 🌐 Live Site: [at building]
+### 🍕 Pizza Market (Full Stack)
+Complete pizza store system with order management, product catalog, and customer interface.
+- 🛠️ [Frontend (React)](https://github.com/DevNewCome/pizzaria-frontend)
+- ⚙️ [Backend (Node.js + Express + MongoDB)](https://github.com/DevNewCome/pizzaria-backend)
+- 🌐 [Live Site (em construção)](https://seu-link-deploy.com)
+
+## 📁  Learning
+
 - 🚀 Developing real-world projects to expand my portfolio
 - 📚 Constantly learning through courses, documentation, and hands-on practice
 - 💬 Sharing knowledge and helping others when I can
@@ -38,8 +43,6 @@ My current focus is on:
 
 ### 🛠️ IT Essentials – Cisco
 ![Certificado Cisco](IT_Essentials_7_certificate.pdf)
-
----
 
 ### 🎓 Diploma – Análise e Desenvolvimento de Sistemas (UNIP)
 ![Diploma UNIP](diploma-ads-unip.pdf)
