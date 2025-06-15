@@ -29,8 +29,7 @@ My current focus is on:
 
 ### 🍕 Pizza Market (Full Stack)
 Complete pizza store system with order management, product catalog, and customer interface.
-- 🛠️ [Frontend (React)](https://github.com/DevNewCome/pizzaria-frontend)
-- ⚙️ [Backend (Node.js + Express + MongoDB)](https://github.com/DevNewCome/pizzaria-backend)
+- 🛠️ [Project (React + Node.js + Express + MongoDB)](https://github.com/DevNewCome/pizzaria-fullstack)
 - 🌐 [Live Site (em construção)](https://seu-link-deploy.com)
 
 ## 📁  Learning
