@@ -12,7 +12,7 @@ I'm passionate about building clean, responsive, and user-friendly web applicati
 
 My current focus is on:
 
-- 🌐 Full-stack JavaScript (React, Node.js, Next.js)
+- 🌐 Full-stack JavaScript (React, Node.js, Next.js, TailWind, TypeScript, PostgreSQL, SQL, SASS)
 - 🧠 Deepening my understanding of algorithms and system design
 - 🧪 Software testing and QA practices
 - ☁️ Hosting and deployment (Netlify, Vercel, Firebase)
@@ -30,7 +30,7 @@ My current focus is on:
 ### 🍕 Pizza Market (Full Stack)
 Complete pizza store system with order management, product catalog, and customer interface.
 - 🛠️ [Project (React + Node.js + Express + MongoDB)](https://github.com/DevNewCome/pizzaria-fullstack)
-- 🌐 [Live Site (em construção)](https://seu-link-deploy.com)
+- 🌐 [Live Site (building)](https://seu-link-deploy.com)
 
 ## 📁  Learning
 
@@ -38,7 +38,7 @@ Complete pizza store system with order management, product catalog, and customer
 - 📚 Constantly learning through courses, documentation, and hands-on practice
 - 💬 Sharing knowledge and helping others when I can
 
-## 📜 Certificados e Diplomas
+## 📜 certificates
 
 ### 🛠️ IT Essentials – Cisco
 ![Certificado Cisco](IT_Essentials_7_certificate.pdf)
