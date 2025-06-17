@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 # Hello World! I'm Jeff, a Brazilian Web Developer 👋🏼
 
-🛜 Currently building my personal [webpage](https://jeffersonliraport.netlify.app/)<br> 🌐
+🛜 Currently building my personal [webpage](https://jeffersonliraport.netlify.app/)<br> 
 👨🏼‍🎓 Graduated in **Analysis and Systems Development (ADS)** and **Technical Course in IT**<br>
 🎓 Currently studying **Computer Science at Estácio University**<br>
 👨🏼‍💻 Working as a Web Developer since 2022
@@ -30,7 +30,7 @@ My current focus is on:
 ### 🍕 Pizza Market (Full Stack)
 Complete pizza store system with order management, product catalog, and customer interface.
 - 🛠️ [Project (NextJS + Node.js + Express + MongoDB)](https://github.com/DevNewCome/pizzaria-fullstack)
-- 🌐 [Live Site (building)](https://seu-link-deploy.com) 🌐
+- 🌐 [Live Site (building)](https://seu-link-deploy.com) 
 
 ## 📁  Learning
 
@@ -50,8 +50,8 @@ Complete pizza store system with order management, product catalog, and customer
 ## 📫 Let's Connect
 
 - 📧 [Email](mailto:jefferson.senac1@yahoo.com) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-b-lira/) 🌐
-- 🌐 [Portfolio](https://jeffersonliraport.netlify.app/) 🌐
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferson-b-lira/) 
+- 🌐 [Portfolio](https://jeffersonliraport.netlify.app/) 
 
 Thanks for visiting — see you in the code! 👨🏼‍💻
 
